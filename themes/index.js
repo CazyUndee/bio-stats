@@ -461,6 +461,11 @@ export const themes = {
     text_color: "ffffff",
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
+  cronix: {
+    title_color: "#6b2323",
+    text_color: "#f0ede8",
+    icon_color: "#6b2323",
+    bg_color: "#0a0a0a",
   },
 };
 
